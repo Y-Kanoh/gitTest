@@ -1,4 +1,4 @@
 # gitTest
 
 It is test!
-v5.0.0!!!!
+v6.0.0!!!!
